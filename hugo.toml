@@ -1,0 +1,4 @@
+baseURL = 'https://codingwithlinda.nl/'
+languageCode = 'en-us'
+title = 'Marks Pattern Generator'
+theme = 'ananke'
