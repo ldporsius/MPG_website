@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marks Pattern Generator</title>
-    <link>https://codingwithlinda.nl/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Marks Pattern Generator</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://codingwithlinda.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 May 2025 14:33:19 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy policy</title>
+      <link>http://localhost:1313/privacy_policy/</link>
+      <pubDate>Sat, 31 May 2025 14:33:19 +0200</pubDate>
+      <guid>http://localhost:1313/privacy_policy/</guid>
+      <description>&lt;p&gt;Privacy Policy – Marks pattern generator&lt;/p&gt;&#xA;&lt;p&gt;This privacy policy will explain how Coding with Linda uses the personal data we collect from you when you use our Marks Pattern Generator app.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Topics&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What data do we collect?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How do we collect your data?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How will we use your data?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How do we store your data?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What are your data protection rights?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Privacy policies of other websites&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Changes to our privacy policy&lt;/li&gt;&#xA;&lt;li&gt;How to contact us&lt;/li&gt;&#xA;&lt;li&gt;How to contact the appropriate authorities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;What data do we collect?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 31 May 2025 13:45:01 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Privacy policy&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
